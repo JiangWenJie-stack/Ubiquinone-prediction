@@ -47,7 +47,15 @@ Download and Install BLAST+
 
        standed_PSSM(self,SimplifyPssm(self,pssmdir,ID),ProteinAdderss):
        
+**Step 4:**  Combine the Step 3's features into 820-dimensional features
 
+**Step 5:** Select the top 242-dimensional features according to the ranking results of feature importance
+
+**Step 6:** Load the model adjusted by the Particle swarm optimization algorithm
+
+**Step 7:** Predict whether the current protein is UBP
+
+**Step 7:** Get conclusion
 
 ## Model flowchart
 ![image](https://github.com/JiangWenJie-stack/Ubiquinone-prediction/blob/master/images/flow%20chart.png)
