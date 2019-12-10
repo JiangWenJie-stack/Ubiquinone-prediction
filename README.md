@@ -34,6 +34,19 @@ Download and Install BLAST+
 
                 https://www.uniprot.org/
 
+**Step 3:**	  
+>>>3.1 Get 20-dimensional amino acid composition 
+
+       CalculateAAC(self,ProteinAdderss):
+
+>>>3.2 Get 400-dimensional dipeptide composition
+
+       CalculateDipeptideComposition(self,ProteinAdderss):
+
+>>>3.4 Get 400-dimensional standardized PSSM
+
+       standed_PSSM(self,SimplifyPssm(self,pssmdir,ID),ProteinAdderss):
+       
 
 
 ## Model flowchart
