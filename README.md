@@ -25,5 +25,16 @@ Download and Install BLAST+
         
 
 **Step 4:** Change the path of BLAST+ in the "RunBlast.py"				".../blast/"
+
+## Configuration Tool
+---------------
+**Step 1:**	Input the ID of the protein
+
+**Step 1:**	Crawl fasta files from:
+
+https://www.uniprot.org/
+
+
+
 ## Model flowchart
 ![image](https://github.com/JiangWenJie-stack/Ubiquinone-prediction/blob/master/images/flow%20chart.png)
