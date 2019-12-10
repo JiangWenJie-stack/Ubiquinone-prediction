@@ -30,9 +30,9 @@ Download and Install BLAST+
 ---------------
 **Step 1:**	Input the ID of the protein
 
-**Step 1:**	Crawl fasta files from:
+**Step 2:**	Crawl fasta files from:
 
-https://www.uniprot.org/
+                https://www.uniprot.org/
 
 
 
