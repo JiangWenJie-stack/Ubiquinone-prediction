@@ -3,19 +3,18 @@
 ## Required tools
 ------
 > * BLAST+
-> * Swissprot
 
 
 ## Configuration Tool
 ----------------------
 Download and Install BLAST+
 
-**Step 1:**	We used the version "ncbi-blast-2.9.0+",download BLAST+ from:
+**Step 1:**	We used the version "ncbi-blast-2.9.0+", download BLAST+ from:
 
         ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
   
 
-**Step 2:** Install the BLAST+ by following the  user manual, you canfind the user manual from:  
+**Step 2:** Install the BLAST+ by following the  user manual, you can find the user manual from:  
 
          https://www.ncbi.nlm.nih.gov/books/NBK1762/
 
